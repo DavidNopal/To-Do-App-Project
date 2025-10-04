@@ -12,5 +12,9 @@
 <br>
 <img width="200" height="300" alt="Screenshot 2025-10-03 135140" src="https://github.com/user-attachments/assets/653902c7-cae8-497d-b1ca-ea9a0b54ccda" />
 <p>All tasks are marked as complete, leaving the active list empty.</p>
-
+<br>
+<hr>
+<br>
+<h2>Explanation</h2>
+<p></p>
 
