@@ -1,4 +1,8 @@
 <h1>To-Do App Project</h1>
+<br>
+<h2>Explanation</h2>
+<p> The Data class defines what the task is and functions to manage to-do items. The State helps to store changes in the lists. State Hoisting displays and reports user actions in the app. </p>
+<hr>
 <h2>App Screen Shots</h2>
 <br>
 <img width="200" height="300" alt="Screenshot 2025-10-03 134807" src="https://github.com/user-attachments/assets/7d0fd283-8d4f-4d5e-85dc-6f3aec402d1e" />
@@ -12,9 +16,5 @@
 <br>
 <img width="200" height="300" alt="Screenshot 2025-10-03 135140" src="https://github.com/user-attachments/assets/653902c7-cae8-497d-b1ca-ea9a0b54ccda" />
 <p>All tasks are marked as complete, leaving the active list empty.</p>
-<br>
-<hr>
-<br>
-<h2>Explanation</h2>
-<p></p>
+
 
